@@ -25,13 +25,7 @@ Stay ahead of the curve with **TechNews**, a modern and minimalistic Flutter app
 
 ---
 
-## 📸 Screenshots
 
-| Home Page | Search | Article View |
-|----------|--------|--------------|
-| ![Home](https://i.imgur.com/9OWqWvd.png) | ![Search](https://i.imgur.com/vRSRL1V.png) | ![Article](https://i.imgur.com/FG9PLxz.png) |
-
-<!-- Replace these placeholder images with screenshots from your app -->
 
 ---
 

@@ -2,7 +2,7 @@
 
 Stay ahead of the curve with **TechNews**, a modern and minimalistic Flutter app that delivers the latest headlines and breaking stories from the world of technology. Powered by [NewsAPI.org](https://newsapi.org), this app is designed for tech enthusiasts, developers, and curious minds who want quick, reliable news at their fingertips.
 
-![TechNews Banner](https://i.imgur.com/EL0ePGe.png) <!-- Optional: Replace with your own banner image URL -->
+![TechNews Banner](https://github.com/subhava06/technews_flutter/blob/ee047a35b80ba76bac344f6f275c3615ff0f1248/news%20api.png) <!-- Optional: Replace with your own banner image URL -->
 
 ---
 
